@@ -1,1 +1,20 @@
-title: Stephanie Perez's Portfolio
+#site config
+lang: en
+
+#main title
+title: Stephanie Perez-Hernandez's Portfolio
+
+#subtitle
+
+#seo
+description: Portfolio for 3D Artist, Technical Artist and Hard-Surface Artist Stephanie Perez-Hernandez
+
+#hostname
+url: https://stephanieherz.github.io/
+
+author:
+  name: Stephanie Perez-Hernandez
+  url: https://stephanieherz.github.io/
+
+github:
+  username: stephanieherz
