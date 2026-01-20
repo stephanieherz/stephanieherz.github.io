@@ -627,6 +627,11 @@ progress {
   height: auto;
 }
 
+.img-tiny {
+  width: 40px;
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -8898,7 +8903,7 @@ fieldset:disabled .btn {
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #262129 !important;
 }
 
 .bg-black {
@@ -13425,7 +13430,7 @@ a {
   -o-transition: .3s all ease;
   transition: .3s all ease;
   text-decoration: none;
-  color: #000;
+  color: #fff;
 }
 
 a:hover {
@@ -14501,7 +14506,7 @@ a:hover {
 }
 
 .site-footer a:hover {
-  color: #000;
+  color: #fff;
 }
 
 .site-footer .footer-cta h2,
